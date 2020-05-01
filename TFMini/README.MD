@@ -5,7 +5,7 @@ Manufcaturer Benewake here on github:<br>
 https://github.com/TFmini
 <br><br>
 
-Pinout: (Source Manufcaturer)
+Pinout (Source Manufcaturer):<br>
 <img src="./img/TFMiniPinout.jpg">
 
 <br><br>
